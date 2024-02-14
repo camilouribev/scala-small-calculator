@@ -1,8 +1,4 @@
 
-I
-src/main/scala/main.scala,f/5/f5e4d4e231418b789b9ee656d552344bce983527
-T
-$src/main/scala/calculator/scala.java,0/4/04da18f017420f023a690fa5e85c02c9177aa08a
 Z
 *src/main/scala/calculator/calculator.scala,4/a/4a331db15a921c8e235eeecd7ecab8c82a031607
 :
@@ -26,3 +22,23 @@ C
 project/plugins.sbt,9/4/94cef6f41fc73ccebe945d2b889292615a09dddb
 H
 project/build.properties,8/6/86c7bed3e63c403cb8322acb81cfb01cb52ebd23
+T
+$src/main/scala/invoice/invoice.scala,3/7/37df740ffce7f20cfa39cd62ad1afca84de923cc
+X
+(src/main/scala/traits/calculateIVA.scala,b/5/b57bd0e8c47799d5182590ed7a34ac10efba15c4
+T
+$src/main/scala/invoice/Invoice.scala,6/a/6af1515a10bdaa5fd2c4a567ec533e709da23f61
+[
++src/main/scala/traits/TaxCalculations.scala,a/d/ada4209c091ce960d94c24dd340bd8418fad195e
+\
+,src/main/scala/invoice/TaxCalculations.scala,8/f/8fc542b7a6be075795fff28e246f20ad5c8e19b9
+a
+1src/main/scala/calculator/RegularCalculator.scala,c/7/c7116e1eb292d95a2dbb01365a2848f888dfe8dd
+a
+1src/main/scala/invoice/RefactoredCalculator.scala,5/7/57fae5e7f3089a0b2ed65bad646e1bf05d71c504
+i
+9src/main/scala/refactoredcalculator/TaxCalculations.scala,f/b/fb18004c153885ac926a7a1cb30883ecd9576f2d
+n
+>src/main/scala/refactoredcalculator/RefactoredCalculator.scala,2/1/215b2879f1ae8bc8a4fc8429c8f83e5f12de6a6c
+a
+1src/main/scala/refactoredcalculator/Invoice.scala,1/d/1d020e80c22803a9f1020eb8096f2749616c2a7a

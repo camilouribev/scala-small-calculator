@@ -1,7 +1,7 @@
 package org.sofka
 package calculator
 
-object calculator extends App {
+object RegularCalculator extends App {
   val iva = 0.19
   val ipoConsumo = 0.16
 
@@ -24,6 +24,9 @@ object calculator extends App {
 
   }
 
-  quotation(List(20,40,677))
+
+    quotation(List(20,40,677))
+
+
 
 }
